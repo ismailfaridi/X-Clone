@@ -1,6 +1,7 @@
 # X-Clone
 
-A faithful, responsive clone of the X.com (formerly Twitter) homepage, meticulously crafted using **Tailwind CSS**.
+A faithful, responsive clone of the X.com (formerly Twitter) homepage, meticulously crafted using **Tailwind CSS**.  
+**Demo:** https://www.youtube.com/watch?v=VqOUaUAO_UM
 
 ---
 
@@ -23,7 +24,8 @@ A faithful, responsive clone of the X.com (formerly Twitter) homepage, meticulou
 
 ---
 
-##  Demo
+##  Demo (Screenshots)
+
 ![x-clone-1](https://github.com/user-attachments/assets/db473f1d-0f26-4421-9d2b-239bc879fa8e)
 ![x-clone-2](https://github.com/user-attachments/assets/23b21b96-5970-4402-b197-f2a07cee2834)
 
